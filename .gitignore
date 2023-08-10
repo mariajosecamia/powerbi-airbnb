@@ -1,0 +1,7 @@
+# Ignorados por exceso de tamaño
+
+# Power BI sin comprimir
+*.pbix
+
+# Dataset de calendario
+datasets/calendar.csv
